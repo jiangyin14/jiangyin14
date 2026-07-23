@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jiang Yin 👋
+# Hi, I'm Sam Jiang 姜胤 👋
 
 ### Student Founder · Full-Stack Builder · Product Architect
 
@@ -130,7 +130,7 @@ I am a student at **Moonshot Academy** and a founder who turns ideas into produc
 
 ## Let's Connect
 
-Have an idea worth building? I am open to product partnerships, business collaboration, and conversations with people creating meaningful things.
+Have an idea worth building? I'm open to product partnerships, business collaboration, and conversations with people creating meaningful things. For free to mail me at jiangyin14@smart-teach.cn anytime.
 
 <p align="center">
   <a href="https://bonjour.bio/jiangyin14">
